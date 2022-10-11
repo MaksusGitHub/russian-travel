@@ -1,0 +1,25 @@
+.root {
+  background-color: #2A2C2F;
+  color: #ffffff;
+  font-family: 'Inter', Arial, sans-serif;
+  /* max-width: 1184px; */
+  margin: 0 auto;
+}
+
+/* @media (max-width: 1024px) {
+  .root {
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 768px) {
+  .root {
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 320px) {
+  .root {
+    max-width: 288px;
+  }
+} */

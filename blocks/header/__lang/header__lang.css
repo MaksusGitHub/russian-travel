@@ -1,0 +1,14 @@
+.header__lang {
+  color: inherit;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+@media (max-width: 320px) {
+  .header__lang {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
