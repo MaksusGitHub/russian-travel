@@ -1,25 +1,9 @@
 .root {
   background-color: #2A2C2F;
-  color: #ffffff;
+  color: #fff;
   font-family: 'Inter', Arial, sans-serif;
-  /* max-width: 1184px; */
   margin: 0 auto;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-/* @media (max-width: 1024px) {
-  .root {
-    max-width: 928px;
-  }
-}
-
-@media (max-width: 768px) {
-  .root {
-    max-width: 720px;
-  }
-}
-
-@media (max-width: 320px) {
-  .root {
-    max-width: 288px;
-  }
-} */

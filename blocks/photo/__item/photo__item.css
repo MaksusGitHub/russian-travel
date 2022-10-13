@@ -2,18 +2,6 @@
   width: 100%;
 }
 
-@media (max-width: 1024px) {
-  .photo__item {
-    width: 100%;
-  }
-}
-
-@media (max-width: 950px) {
-  .photo__item {
-    width: 100%;
-  }
-}
-
 @media (max-width: 768px) {
   .photo__item {
     width: 352px;
