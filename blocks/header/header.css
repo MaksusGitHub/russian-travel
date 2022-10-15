@@ -2,7 +2,7 @@
   margin-bottom: 56px;
   display: flex;
   justify-content: space-between;
-  max-height: 52px;
+  min-height: 52px;
 }
 
 @media (max-width: 1024px) {
@@ -13,6 +13,6 @@
 
 @media (max-width: 426px) {
   .header {
-    max-height: 42px;
+    min-height: 42px;
   }
 }
