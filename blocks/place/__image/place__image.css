@@ -1,33 +1,4 @@
 .place__image {
-  width: 460px;
-}
-
-@media (max-width: 1024px) {
-  .place__image {
-    width: 440px;
-  }
-}
-
-@media (max-width: 945px) {
-  .place__image {
-    width: 100%;
-  }
-}
-
-@media (max-width: 810px) {
-  .place__image {
-    width: 340px;
-  }
-}
-
-@media (max-width: 730px) {
-  .place__image {
-    width: 100%;
-  }
-}
-
-@media (max-width: 320px) {
-  .place__image {
-    margin: 0;
-  }
+  display: block;
+  width: 100%;
 }

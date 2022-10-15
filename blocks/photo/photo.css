@@ -1,15 +1,15 @@
 .photo {
-  margin-top: 92px;
+  
 }
 
 @media (max-width: 786px) {
   .photo {
-    margin-top: 88px;
+    
   }
 }
 
 @media (max-width: 320px) {
   .photo {
-    margin-top: 64px;
+    
   }
 }

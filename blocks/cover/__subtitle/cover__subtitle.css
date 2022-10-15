@@ -7,7 +7,6 @@
   max-width: 360px;
 }
 
-
 @media (max-width: 600px) {
   .cover__subtitle {
     font-size: 15px;
@@ -15,9 +14,10 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 426px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 114%;
+    max-width: 288px;
   }
 }

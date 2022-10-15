@@ -5,14 +5,15 @@
   line-height: 163%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .place__paragraph {
     font-size: 16px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 426px) {
   .place__paragraph {
-    margin: 0 16px 0;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }

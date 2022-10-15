@@ -1,22 +1,22 @@
 .places {
+  margin-bottom: 92px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 92px;
   gap: 80px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .places {
-    margin-top: 88px;
+    margin-bottom: 90px;
     gap: 72px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 426px) {
   .places {
-    max-width: 320px;
-    margin-top: 64px;
+    margin-bottom: 66px;
+    max-width: 426px;
     gap: 50px;
   }
 }

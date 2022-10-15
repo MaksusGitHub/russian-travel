@@ -8,23 +8,24 @@
   max-width: 720px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 730px) {
   .lead__title {
-    font-size: 70px;
-    line-height: 76px;
+    font-size: 60px;
+    line-height: 63px;
     margin-bottom: 16px;
   }
 }
 
-@media (max-width: 510px) {
+@media (max-width: 540px) {
   .lead__title {
-    font-size: 42px;
-    line-height: 50px;
+    font-size: 49px;
+    line-height: 52px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 426px) {
   .lead__title {
+    max-width: 288px;
     font-size: 40px;
     line-height: 44px;
   }

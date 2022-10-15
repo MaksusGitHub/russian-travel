@@ -1,31 +1,22 @@
 .intro {
-  margin-top: 92px;
+  margin-bottom: 92px;
   margin-left: calc((100% - 984px) / 2);
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1072px) {
   .intro {
-    margin-left: calc((100% - 928px) / 2);
+    margin-left: auto;
   }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 800px) {
   .intro {
-    margin-left: 24px;
+    margin-bottom: 88px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 426px) {
   .intro {
-    margin-top: 88px;
-    max-width: 720px;
-  }
-}
-
-@media (max-width: 320px) {
-  .intro {
-    margin-top: 64px;
-    margin-left: 16px;
-    max-width: 288px;
+    margin-bottom: 64px;
   }
 }

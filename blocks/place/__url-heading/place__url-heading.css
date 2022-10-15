@@ -5,9 +5,3 @@
   letter-spacing: 2px;
   color: #aaa;
 }
-
-@media (max-width: 768px) {
-  .place__url-heading {
-    line-height: 100%;
-  }
-}
